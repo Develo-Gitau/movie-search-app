@@ -12,3 +12,7 @@ A simple web application that allows users to search for movies and view details
 - OMDb API
 ## How to Run
 Open `index.html` in your browser.
+## Live Demo
+🔗 https://YOUR_USERNAME.github.io/movie-search-app/
+
+

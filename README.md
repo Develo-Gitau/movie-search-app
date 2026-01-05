@@ -16,5 +16,3 @@ Open `index.html` in your browser.
 🔗 https://Develo-Gitau.github.io/movie-search-app/
 
 
-
->>>>>>> 14fe8027b854dbc56df368cc7b2c5124d10c8a9c

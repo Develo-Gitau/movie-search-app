@@ -15,3 +15,7 @@ Open `index.html` in your browser.
 ## Live Demo
 🔗 https://Develo-Gitau.github.io/movie-search-app/
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 12378b2997090768f4b6279ace7e52f2daee0ebd

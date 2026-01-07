@@ -21,7 +21,7 @@ function searchMovie() {
                         <h2>${data.Title}</h2>
                         <p><strong>Year:</strong> ${data.Year}</p>
                         <p><strong>Genre:</strong> ${data.Genre}</p>
-                        <p><strong>IMDb Rating:</strong> ⭐ ${data.mdbRating}</p>
+                        <p><strong>IMDb Rating:</strong> ⭐ ${data.IMDbRating}</p>
                     </div>
                 `;
             }

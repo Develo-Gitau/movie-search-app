@@ -56,6 +56,9 @@ Through this project, I gained hands-on experience in:
 - Implementing error handling
 - Building user-focused web applications
 
+## Preview
+![alt text](<My Movie-search-app screenshot.png>)
+
 ## License
 This project is open-source and available for learning and practice purposes.
 

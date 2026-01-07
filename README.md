@@ -45,7 +45,8 @@ movie-search-app/
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+├── README.md
+└── .gitignore
 
 ## Learning Outcomes
 Through this project, I gained hands-on experience in:
